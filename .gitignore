@@ -5,10 +5,22 @@ sdkconfig.old
 *.bin
 *.elf
 *.map
+*.o
+*.d
+flash_args
 
 # 忽略 VSCode 配置
 .vscode/
+*.code-worspace
 
 # 忽略 Python 缓存
 __pycache__/
 *.pyc
+venv/
+*.env
+
+#spiffs分区文件
+spiffs_*.bin
+mks*.exe
+*.csv
+*.txt
