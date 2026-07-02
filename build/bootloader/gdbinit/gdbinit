@@ -1,0 +1,2 @@
+source C:/Espressif/mpu6050_collect/build/bootloader/gdbinit/symbols
+source C:/Espressif/mpu6050_collect/build/bootloader/gdbinit/connect
